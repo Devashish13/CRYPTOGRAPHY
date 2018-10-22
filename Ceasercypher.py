@@ -1,4 +1,5 @@
 #caeser Cipher
+#you have to download pyperclip.py so that you can copy the ecnrypted or decrypted message
 import pyperclip
 
 #the string to be encrypted/decrypted
